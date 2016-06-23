@@ -11,7 +11,7 @@ short-description: An application that allows users to search for photographers 
 
 ## Explanation
 
-It can often be difficult to find a photographer, especially when it is for an event outside your immediate location. People spend too much time and money searching different sites and using other resources to find a photographer that will fit their needs. Often people will pay huge travel expenses for photographers because information on photographers in the location they are seeking is unreliable. Creating a centralized location for photographers to create profiles and list their information not only will help them increase their clientele, but will help users save time and money by giving them one site to find and compare photographers to find the one that is just right for them. Including user reviews gives reliability to the site and helps ensure the quality of the photographer for the users.
+It can often be difficult to find a photographer, especially when it is for an event outside of your immediate location. People spend too much time and money searching different sites and using other resources to find a photographer that will fit their needs. Often people will pay huge travel expenses for photographers because information on photographers in the location they are seeking is unreliable. Creating a centralized location for photographers to create profiles and list their information not only will help them increase their clientele, but will help users save time and money by giving them one site to find and compare photographers to find the one that is just right for them. Including user reviews gives reliability to the site and helps ensure the quality of the photographer for the users.
 
 {:.center}
 ![]({{ site.baseurl }}/img/FP Home 2.png)
@@ -22,7 +22,7 @@ Building the application from the ground up, I had to initiate the application a
 
 ## Solution
 
-I decided to create two user models for the application through the Ruby gem devise. Because the information I needed from the two types of users was quite different and I needed them to be able to interact independently, that it made it prudent to actually create photographers and users as two separate user models. Initially, I created a search model that would record user searches by zip code; however, I changed it to simply pass the zip code as a parameter to filter the list of photographers indexed. I also created a review model where users can designate a 1-5 rating and leave a review for any photographer.
+I decided to create two user models for the application through the Ruby gem devise. Because the information I needed from the two types of users was quite different and I needed them to be able to interact independently, it made it prudent to actually create photographers and users as two separate user models. Initially, I created a search model that would record user searches by zip code; however, I changed it to simply pass the zip code as a parameter to filter the list of photographers indexed. I also created a review model where users can designate a 1-5 rating and leave a review for any photographer.
 
 {:.center}
 ![]({{ site.baseurl }}/img/Photographer Login.png)
