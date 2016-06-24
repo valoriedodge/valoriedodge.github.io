@@ -12,9 +12,9 @@ First off, I want to talk a little about how important troubleshooting is. I hav
 
 The first resource I am going to mention to you as you start your troubleshooting is Google. Yes, Google. Of course we have all used Google before. Probably daily. BUT, I didn’t realize I could search `ActiveModel::MissingAttributeError (can't write unknown attribute `level`)` and find applicable sites that would help me solve my problem.
 
-Your google search results will often take you to the next resource I am going to mention: Stack Overflow. Stack Overflow is going to be a life-saver for you. You will come to appreciate that community and the thousands of coders before you that have had the same error messages that you are now getting. Use that resource. And when you can, give back to that resource.
+Your Google search results will often take you to the next resource I am going to mention: Stack Overflow. Stack Overflow is going to be a life-saver for you. You will come to appreciate that community and the thousands of coders before you that have had the same error messages that you are now getting. Use that resource. And when you can, give back to that resource.
 
-The third resource that I am going to mention is github. You can do a search on github and find not only repositories that are applicable to what you are coding, but you can find CODE that you can use to model your own code. It’s great. And a little side note, Google does not index any of github so github resources will not come up in your google search.
+The third resource that I am going to mention is GitHub. You can do a search on GitHub and find not only repositories that are applicable to what you are coding, but you can find CODE that you can use to model your own code. It’s great. And a little side note, Google does not index any of GitHub, so GitHub resources will not come up in your Google searches.
 
 Finally, one of the most important resources you can have is some sort of mentor. A real person resource. Whether that is a teacher, coworker, co-coder, or built-in mentor for your program, take advantage of that resource. If you don’t feel like you have someone that can fulfill that role for you, find someone. Go to meet-ups or join coding groups. Participate in online forums.
 

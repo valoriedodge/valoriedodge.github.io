@@ -24,7 +24,7 @@ Finally, you need to make decisions.
 >“We need to accept that we won’t always make the right decisions, that we’ll screw up royally sometimes—understanding that failure is not the opposite of success, it’s part of success.”
 -Arianna Huffington
 
-Sometimes deciding can be the hardest thing. Know that no decision is permanent. Except deleting a repository on github. Don’t worry, you’ll understand that reference later if you don’t right now. But seriously, choose a path and follow it. If it doesn’t end up being what you wanted or hoped, you can always choose another path. If you decide not to pursue a path for the time being, that doesn’t mean that at a later point you can’t. The important thing is to be aware of your decisions and take control of the direction you are taking your life.
+Sometimes deciding can be the hardest thing. Know that no decision is permanent. Except deleting a repository on GitHub. Don’t worry, you’ll understand that reference later if you don’t right now. But seriously, choose a path and follow it. If it doesn’t end up being what you wanted or hoped, you can always choose another path. If you decide not to pursue a path for the time being, that doesn’t mean that at a later point you can’t. The important thing is to be aware of your decisions and take control of the direction you are taking your life.
 
 >“I always did something I was a little not ready to do. I think that’s how you grow. When there’s that moment of ‘Wow, I’m not really sure I can do this,’ and you push through those moments, that’s when you have a breakthrough.”
 -Marissa Mayer
