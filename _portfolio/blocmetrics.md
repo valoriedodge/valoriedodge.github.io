@@ -1,13 +1,13 @@
 ---
 layout: post
 title: BlocMetrics
-thumbnail-path: "img/Blocmetrics index.png"
+thumbnail-path: "img/Blocmetrics Index.png"
 short-description: BlocMetrics is an application that will track events on websites as an analytics service.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/Blocmetrics index.png)
+![]({{ site.baseurl }}/img/Blocmetrics Index.png)
 
 ## Explanation
 
