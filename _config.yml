@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://vjdodge.com" # the base hostname & protocol for your site
+url: "http://valoridodge.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -18,23 +18,23 @@ theme:
 
   # Icons
   rss: false
-  email_address: "valoriejones@gmail.com"
+  email_address: "valorie@valoriedodge.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "vjdodge"
+  github: "valoriedodge"
   google_plus:
-  instagram: "vjdodge"
-  linkedin:  # Full URL
+  instagram:
+  linkedin:  "www.linkedin.com/in/valoriedodge"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "vjdodge1"
+  twitter: "valoriedodge"
   wordpress:
   youtube:
 
@@ -68,7 +68,7 @@ collections:
 # BUILD SETTINGS
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
