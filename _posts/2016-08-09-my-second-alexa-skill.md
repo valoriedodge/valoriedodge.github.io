@@ -9,8 +9,10 @@ My first skill was a simple trivia game, built after the template Amazon outline
 
 A major difference between deploying this skill and the last one, however, is that Amazon has created a [Software Development Kit (SDK)](https://developer.amazon.com/public/community/post/Tx213D2XQIYH864/Announcing-the-Alexa-Skills-Kit-for-Node-js). I was unfamiliar with SDK's and how they are useful. In a nutshell, alexa-sdk is a Node package that helps you build skills faster while allowing you to avoid unneeded complexity by handling things like session attributes, skill state persistence, response building and behavior modeling.
 
-It wasn't too complicated to incorporate alexa-sdk. You just have to run `npm install --save alexa-sdk` within your Node.js environment. You can then import it into your app by including the following in your index.js file:
-````
+It wasn't too complicated to incorporate alexa-sdk. You just have to run
+`npm install --save alexa-sdk`
+within your Node.js environment. You can then import it into your app by including the following in your index.js file:
+```
 var Alexa = require('alexa-sdk');
 
 exports.handler = function(event, context, callback){
@@ -18,7 +20,7 @@ exports.handler = function(event, context, callback){
     var alexa = Alexa.handler(event, context);
 
 };
-````
+```
 And if you are using Amazon's "space geek" template from the tutorial, they take care of that code for you.
 
 By the end of the tutorial, I had built an amusing skill that states a crazy state law when prompted by the user. It's called Crazy State Laws (go figure, right?). Feel free to go and give it a try!
