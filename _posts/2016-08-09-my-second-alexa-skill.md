@@ -12,6 +12,7 @@ A major difference between deploying this skill and the last one, however, is th
 It wasn't too complicated to incorporate alexa-sdk. You just have to run
 `npm install --save alexa-sdk`
 within your Node.js environment. You can then import it into your app by including the following in your index.js file:
+
 ```
 var Alexa = require('alexa-sdk');
 
@@ -21,6 +22,7 @@ exports.handler = function(event, context, callback){
 
 };
 ```
+
 And if you are using Amazon's "space geek" template from the tutorial, they take care of that code for you.
 
 By the end of the tutorial, I had built an amusing skill that states a crazy state law when prompted by the user. It's called Crazy State Laws (go figure, right?). Feel free to go and give it a try!
