@@ -3,7 +3,7 @@ layout: post
 title: My Second Alexa Skill
 ---
 
-After [building my first Alexa skill]({% post_url 2016-07-27-building-an-alexa-trivia-skill.md %}), I was feeling pretty confident, and I was excited to build another one. This time I followed along the tutorial [How to Build a Fact-Based Alexa Skill](https://developer.amazon.com/public/community/post/Tx3DVGG0K0TPUGQ/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-Fact-Skill).
+After [building my first Alexa skill]({% link _posts/2016-07-27-building-an-alexa-trivia-skill.md %}), I was feeling pretty confident, and I was excited to build another one. This time I followed along the tutorial [How to Build a Fact-Based Alexa Skill](https://developer.amazon.com/public/community/post/Tx3DVGG0K0TPUGQ/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-Fact-Skill).
 
 My first skill was a simple trivia game, built after the template Amazon outlined. The skill I built this time simply stated a fact from a given list when prompted. It really wasn't any more complicated than the first tutorial, and you can follow along without any prior experience with Alexa. It took me about the same amount of time, roughly a few hours. Again, most of my time was invested in choosing and creating a list of interesting facts for the skill to give when asked.
 
