@@ -10,7 +10,7 @@ First off, I want to talk a little about how important troubleshooting is. I hav
 >“Everyone knows that debugging is twice as hard as writing a program in the first place. So if you're as clever as you can be when you write it, how will you ever debug it?”
 ― Brian W. Kernighan
 
-The first resource I am going to mention to you as you start your troubleshooting is Google. Yes, Google. Of course we have all used Google before. Probably daily. BUT, I didn’t realize I could search `ActiveModel::MissingAttributeError (can't write unknown attribute `level`)` and find applicable sites that would help me solve my problem.
+The first resource I am going to mention to you as you start your troubleshooting is Google. Yes, Google. Of course we have all used Google before. Probably daily. BUT, I didn’t realize I could search `ActiveModel::MissingAttributeError (can't write unknown attribute "level")` and find applicable sites that would help me solve my problem.
 
 Your Google search results will often take you to the next resource I am going to mention: Stack Overflow. Stack Overflow is going to be a life-saver for you. You will come to appreciate that community and the thousands of coders before you that have had the same error messages that you are now getting. Use that resource. And when you can, give back to that resource.
 
