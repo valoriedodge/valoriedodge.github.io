@@ -7,10 +7,12 @@ I am falling in love with Alexa. It's true. She keeps me up at night, thinking o
 
 I have been reading all over the place about different applications people have built. Here are a few of my favorite resources I found about these new Alexa developments:
 
+<center>
 * [DevPost's Alexa](http://devpost.com/software/built-with/amazon-alexa?page=4) gallery
 * [Hackster's Alexa](https://www.hackster.io/amazon-alexa) community
 * [Love My Echo](http://lovemyecho.com/love-my-echo-skills/) blog site
-* [TurboFuture blogpost](https://turbofuture.com/consumer-electronics/The-20-Best-Amazon-Echo-Skills-in-the-Alexa-App)
+* [TurboFuture](https://turbofuture.com/consumer-electronics/The-20-Best-Amazon-Echo-Skills-in-the-Alexa-App) blog post
+</center>
 
 There is such a range of applications it is exhilarating. Everything from automating lights, locks, and coffee makers, to placing phone calls, giving cooking recipes, evaluating medical conditions, dating apps, fitness tracking, data storage and sharing, voice website development and more.
 
