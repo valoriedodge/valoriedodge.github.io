@@ -3,7 +3,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://valoridodge.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme1:
   # Meta
   title: Valorie Dodge # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
