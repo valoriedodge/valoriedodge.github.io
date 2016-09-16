@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building Baby Logs
+title: Building Baby Logs with Alexa
 ---
 
 Another Alexa skill? Yep! I told you I'm in love. It is so fun to be able to build something that is useful and practical and that is why I created Baby Logs. I decided to build Baby Logs as a natural successor to Pregnancy Countdown. It is an app for after the baby arrives.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lessons Learned With Alexa
+title: DynamoDB and other Lessons Learned with Alexa
 ---
 
 I finally completed my Pregnancy Countdown Alexa Skill! I briefly mentioned in my last post that I was conceptualizing an app that helps keep track of how long a woman has left in her pregnancy. Well, I am happy to announce that that is now a reality. It has been an awesome learning experience, and I wanted to share some of the challenges I faced as well as things that I learned with you.
