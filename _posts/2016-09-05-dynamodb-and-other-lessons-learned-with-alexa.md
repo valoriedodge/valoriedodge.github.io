@@ -3,7 +3,7 @@ layout: post
 title: DynamoDB and other Lessons Learned with Alexa
 ---
 
-I finally completed my Pregnancy Countdown Alexa Skill! I briefly mentioned in my last post that I was conceptualizing an app that helps keep track of how long a woman has left in her pregnancy. Well, I am happy to announce that that is now a reality. It has been an awesome learning experience, and I wanted to share some of the challenges I faced as well as things that I learned with you.
+I finally completed my Pregnancy Countdown Alexa Skill! I briefly mentioned in my last post that I was conceptualizing an app that helps keep track of how long a woman has left in her pregnancy. Well, I am happy to announce that it is now a live Alexa skill. It has been an awesome learning experience, and I wanted to share some of the challenges I faced as well as things that I learned with you.
 
 For my Pregnancy Countdown App, I needed to be able to persist data for the user (namely, the baby's due date). This was the main challenge I faced in creating this app. Because I was already hosting the code in an Amazon Web Service (AWS) Lambda function, I decided to use Amazon's DynamoDB to store the data for the app as well. Amazon has a sample skill [ScoreKeeper](https://github.com/amzn/alexa-skills-kit-js/blob/master/samples/scoreKeeper/src/scoreKeeper.js) that also persists data to DynamoDB. It is a great resource and I used it to model my code to save due dates for users of Pregnancy Countdown.
 

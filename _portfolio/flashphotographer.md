@@ -2,7 +2,7 @@
 layout: post
 title: Flash Photographer
 thumbnail-path: "img/FP Home.png"
-short-description: An application that allows users to search for photographers based on zip code.
+short-description: A platform for photographers and clients to connect
 
 ---
 

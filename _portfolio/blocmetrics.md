@@ -1,13 +1,13 @@
 ---
 layout: post
 title: BlocMetrics
-thumbnail-path: "img/Blocmetrics Index.png"
-short-description: BlocMetrics is an application that will track events on websites as an analytics service.
+thumbnail-path: "img/Blocmetrics.png"
+short-description: An analytics service and reporting tool to track user activity
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/Blocmetrics Index.png)
+![]({{ site.baseurl }}/img/Blocmetrics.png)
 
 ## Explanation
 
@@ -18,7 +18,7 @@ As an analytic service, this application was built to help users easily track ev
 Building the application from scratch, I had to initiate the application and create all of the necessary models and controllers. I needed users to be able to create accounts and subsequently login. Users needed to be able to register their websites that they wanted to track. I needed to create a model to store the trackable events and then build the API to capture and create the actual events. Finally, I needed a way to represent the data for the user in a meaningful way.
 
 {:.center}
-![]({{ site.baseurl }}/img/Blocmetrics.png)
+![]({{ site.baseurl }}/img/BlocmetricsAbout.png)
 
 ## Solution
 
@@ -43,6 +43,9 @@ Finally, I used the JavaScript charting library, Chartkick, to display the data 
 ## Results
 
 All of the functionality of the website was developed using Test Driven Development. I wrote encompassing tests for all of the functionality of the application to ensure that it was behaving as I intended. I used curl in the terminal to test the API itself. The application was also tested locally before it was put into production on Heroku and tested for functionality there as well. Users were able to register applications and then if they successfully included the JavaScript snippet in their site, the application registered events connected to those applications that would then display for the user in the charts.
+
+{:.center}
+![]({{ site.baseurl }}/img/BlocmetricsGraphs.png)
 
 
 ## Conclusion

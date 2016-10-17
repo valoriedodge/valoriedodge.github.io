@@ -2,7 +2,7 @@
 layout: post
 title: Blocipedia
 thumbnail-path: "img/blocipedia.png"
-short-description: A production quality SaaS app that allows users to create their own wikis.
+short-description: A production quality SaaS app that allows users to create their own wikis
 
 ---
 
@@ -19,7 +19,7 @@ People are always looking for new ways to collaborate in order to create product
 Building the application from scratch, I had to initiate the application and create all of the necessary models and controllers. Multiple users can be assigned to the same wiki but in a number of different capacities. I needed the ability to identify users as the creator, contributors, and assigned collaborators. Additionally, I needed a way to process payments to upgrade users to premium. Only premium users are allowed to create private wikis, creating the need to discriminate between users, as well as identify which wikis are public and which are private.
 
 {:.center}
-![]({{ site.baseurl }}/img/Wiki Homepage.png)
+![]({{ site.baseurl }}/img/Wikis.png)
 
 ## Solution
 
