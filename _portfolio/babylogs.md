@@ -22,7 +22,7 @@ The main challenge in building this Alexa skill was being able to structure and 
 
 ## Solution
 
-Baby Logs uses the Alexa Skills Kit basic functionality and then connects to DynamoDB to persist user data. The DynamoDB table is structured based on the individual User ID assigned by Amazon and then contains a name array for users to register the children they would like to track along with individual objects for eatings, feedings, and diapers.
+Baby Logs uses the Alexa Skills Kit basic object and then connects to DynamoDB to persist user data. The DynamoDB table is structured based on the individual User ID, assigned by Amazon, and then contains a name array for users to register the children they would like to track along with individual objects for eatings, feedings, and diapers.
 
 ## Results
 
