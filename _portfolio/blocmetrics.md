@@ -2,7 +2,7 @@
 layout: post
 title: BlocMetrics
 thumbnail-path: "img/Blocmetrics.png"
-short-description: An analytics service and reporting tool to track user activity
+short-description: An API analytics service and reporting tool to track user activity
 
 ---
 
