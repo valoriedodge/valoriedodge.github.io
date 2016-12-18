@@ -11,7 +11,7 @@ theme1:
   # Header and footer text
   header_text: >
      <h1>Mary Poppins Software Developer</h1>
-     <p>I'm a natural language linguist branching into the world of machine languages, specializing in Ruby and Italian. I employ language to create real world solutions.</p>
+     <p>I'm a natural language linguist employing machine languages to create real world solutions.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with time, love, and tears.
